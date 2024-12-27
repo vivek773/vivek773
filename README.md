@@ -25,6 +25,12 @@
 
 ---
 
+## 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vivek-singh-5770b41b7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github)](https://my-portfolio-gx5zhpptz-portfolios-projects-e00a3080.vercel.app/)
+
+---
+
 ## 🛠️ Technologies and Tools:
 [![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -40,12 +46,6 @@
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
 [![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-
----
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 

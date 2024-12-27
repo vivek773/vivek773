@@ -25,12 +25,6 @@
 
 ---
 
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vivek-singh-5770b41b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github)](https://my-portfolio-gx5zhpptz-portfolios-projects-e00a3080.vercel.app/)
-
----
-
 ## 🛠️ Technologies and Tools:
 [![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)

@@ -32,20 +32,20 @@
 ---
 
 ## 🛠️ Technologies and Tools:
-![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
-![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/Material--UI-black?style=flat-square&logo=mui)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visual-studio-code)
+[![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)](https://redux.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Material UI](https://img.shields.io/badge/Material--UI-black?style=flat-square&logo=mui)](https://mui.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
+[![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ---
 

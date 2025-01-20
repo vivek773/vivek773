@@ -27,7 +27,7 @@
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vivek-singh-5770b41b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github)](https://my-portfolio-gx5zhpptz-portfolios-projects-e00a3080.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github)](https://my-portfolio-ecru-beta-32.vercel.app/)
 
 ---
 

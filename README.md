@@ -50,7 +50,7 @@
 ---
 
 ## 🏆 Achievements:
-- Contributed to multiple real-world projects on the Outlier platform.
+- Contributed to multiple real-world projects in the ProLance IT.
 - Successfully implemented Redux Thunk and Redux Saga in complex applications.
 - Published multiple repositories showcasing responsive and accessible design principles.
 - Actively preparing for and excelling in React.js interviews.

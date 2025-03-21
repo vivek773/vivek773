@@ -20,9 +20,6 @@
   - Building responsive and accessible web applications.
   - Version control using Git and GitHub.
 
-- ⚡ Fun fact:
-  - I enjoy exploring new development tools and recently customized my MacBook Air M1 for MERN stack development.
-
 ---
 
 ## 🔗 Connect with me:
